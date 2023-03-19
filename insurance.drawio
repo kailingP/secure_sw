@@ -1,1 +1,106 @@
-<mxfile host="app.diagrams.net" modified="2023-03-19T10:30:16.401Z" agent="5.0 (Windows)" version="21.0.8" etag="0WiTpQ0US49sKL6WP39I" type="github"><diagram name="Page-1" id="jTgoiPRyH_wtlVoX9hBD">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-03-19T10:46:56.762Z" agent="5.0 (Windows)" etag="qnsBcSaWsigvBeVRQlpG" version="21.0.8" type="github">
+  <diagram name="Page-1" id="jTgoiPRyH_wtlVoX9hBD">
+    <mxGraphModel dx="1461" dy="593" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ks_e0K6Obnc2zDYWN54F-1" value="Get money as an attacker instead of as an patient" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ks_e0K6Obnc2zDYWN54F-2" value="steal an exposed patient id " style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ks_e0K6Obnc2zDYWN54F-3" value="fake document and cost" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ks_e0K6Obnc2zDYWN54F-4" value="buy stolen id" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ks_e0K6Obnc2zDYWN54F-5" value="change reciever&#39;s acount number" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ks_e0K6Obnc2zDYWN54F-6" value="buy insurance with stolen id " style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ks_e0K6Obnc2zDYWN54F-7" value="faking cost" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ks_e0K6Obnc2zDYWN54F-8" value="bride staff to approve false claim" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ks_e0K6Obnc2zDYWN54F-9" value="Doctor" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="707" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ks_e0K6Obnc2zDYWN54F-12" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="ks_e0K6Obnc2zDYWN54F-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="140" as="sourcePoint" />
+            <mxPoint x="440" y="90" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ks_e0K6Obnc2zDYWN54F-13" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="ks_e0K6Obnc2zDYWN54F-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="140" as="sourcePoint" />
+            <mxPoint x="440" y="90" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ks_e0K6Obnc2zDYWN54F-14" value="admin" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ks_e0K6Obnc2zDYWN54F-15" value="fake a patient id" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ks_e0K6Obnc2zDYWN54F-16" value="" style="endArrow=none;html=1;rounded=0;entryX=0.067;entryY=0.983;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ks_e0K6Obnc2zDYWN54F-2" target="ks_e0K6Obnc2zDYWN54F-15">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="140" y="430" as="sourcePoint" />
+            <mxPoint x="190" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ks_e0K6Obnc2zDYWN54F-17" value="" style="endArrow=none;html=1;rounded=1;entryX=0.592;entryY=1.05;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ks_e0K6Obnc2zDYWN54F-4" target="ks_e0K6Obnc2zDYWN54F-15">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="210" y="430" as="sourcePoint" />
+            <mxPoint x="260" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ks_e0K6Obnc2zDYWN54F-18" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="ks_e0K6Obnc2zDYWN54F-14" target="ks_e0K6Obnc2zDYWN54F-15">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="250" y="430" as="sourcePoint" />
+            <mxPoint x="340" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ks_e0K6Obnc2zDYWN54F-19" value="Web Application" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ks_e0K6Obnc2zDYWN54F-20" value="" style="endArrow=none;html=1;rounded=0;entryX=0.85;entryY=-0.067;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="ks_e0K6Obnc2zDYWN54F-19">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="140" as="sourcePoint" />
+            <mxPoint x="450" y="90" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ks_e0K6Obnc2zDYWN54F-21" value="hack Document Assssment Application" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="820" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ks_e0K6Obnc2zDYWN54F-22" value="approve false document" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="760" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ks_e0K6Obnc2zDYWN54F-23" value="erease the log record" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="880" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ks_e0K6Obnc2zDYWN54F-24" value="hack the databse and change the receiver&#39;s accounts" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1110" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ks_e0K6Obnc2zDYWN54F-25" value="" style="endArrow=none;html=1;rounded=0;exitX=0.633;exitY=-0.017;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="ks_e0K6Obnc2zDYWN54F-15">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="290" y="190" as="sourcePoint" />
+            <mxPoint x="340" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ks_e0K6Obnc2zDYWN54F-26" value="" style="endArrow=none;html=1;rounded=0;entryX=0.917;entryY=-0.033;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="ks_e0K6Obnc2zDYWN54F-24">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="420" y="140" as="sourcePoint" />
+            <mxPoint x="470" y="90" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
